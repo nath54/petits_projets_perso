@@ -52,4 +52,7 @@ h1{
     font-size: 50px;
 }
 
-
+/*
+table, td, tr{
+    border-collapse: collapse;
+}*/ 
